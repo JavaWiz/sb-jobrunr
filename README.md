@@ -94,7 +94,7 @@ Bad things can happen, for example, an SSL certificate expired, or a disk is ful
 
 All of this is visible in the dashboard, including each retry with the exact error message and the complete stack trace of why a job failed:
 
-![job_details](images/jobrunr-1.webp)
+![job_details](images/jobrunr-1.png)
 
 ### References
 [Jobrunr](https://www.jobrunr.io/en/documentation/configuration/spring/)
